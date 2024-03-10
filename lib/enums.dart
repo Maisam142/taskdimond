@@ -1,0 +1,4 @@
+
+enum UrlsEnum {
+  api,
+}
